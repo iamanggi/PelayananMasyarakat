@@ -1,0 +1,8 @@
+C:\Users\LENOVO\OneDrive - Universitas Muhammadiyah Yogyakarta\KULIAH\SEMESTER 4\PABD\UCP1\UCP1\bin\Debug\UCP1.exe.config
+C:\Users\LENOVO\OneDrive - Universitas Muhammadiyah Yogyakarta\KULIAH\SEMESTER 4\PABD\UCP1\UCP1\bin\Debug\UCP1.exe
+C:\Users\LENOVO\OneDrive - Universitas Muhammadiyah Yogyakarta\KULIAH\SEMESTER 4\PABD\UCP1\UCP1\bin\Debug\UCP1.pdb
+C:\Users\LENOVO\OneDrive - Universitas Muhammadiyah Yogyakarta\KULIAH\SEMESTER 4\PABD\UCP1\UCP1\obj\Debug\UCP1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive - Universitas Muhammadiyah Yogyakarta\KULIAH\SEMESTER 4\PABD\UCP1\UCP1\obj\Debug\UCP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive - Universitas Muhammadiyah Yogyakarta\KULIAH\SEMESTER 4\PABD\UCP1\UCP1\obj\Debug\UCP1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive - Universitas Muhammadiyah Yogyakarta\KULIAH\SEMESTER 4\PABD\UCP1\UCP1\obj\Debug\UCP1.exe
+C:\Users\LENOVO\OneDrive - Universitas Muhammadiyah Yogyakarta\KULIAH\SEMESTER 4\PABD\UCP1\UCP1\obj\Debug\UCP1.pdb
